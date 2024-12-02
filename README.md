@@ -1,0 +1,1 @@
+Another year of https://adventofcode.com/ - this time in Python which will hopefully be easier to use than Go for the later days in the month.
